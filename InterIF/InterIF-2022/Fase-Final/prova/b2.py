@@ -1,5 +1,8 @@
 # PROBLEMA B - V INTERIF 2022 - TRIATLO
 
+from time import time
+
+
 def propaga(matriz, n, ponto, passou):
     passou[ponto] = True
     for i in range(n):
@@ -19,12 +22,14 @@ n, m = [int(x) for x in input().split(' ')]
 passou = [False]*n
 matriz = []
 
-for i in range(n): matriz.append(passou.copy())
+for i in range(n): matriz.append(passou[:])
 
 for i in range(m):
     ponto1, ponto2 = [int(x) for x in input().split(' ')]
     matriz[ponto1-1][ponto2-1] = True
     matriz[ponto2-1][ponto1-1] = True
+
+ini = time()
 
 if n > 2:
     propaga(matriz, n, 0, passou)
@@ -34,3 +39,7 @@ if n > 2:
         print('ciclismo')
 else:
     print('corrida')
+
+end = time()
+
+print(f'Tempo passado {end-ini} seconds')
