@@ -12,6 +12,10 @@ O CPiF é um grupo de estudos focado em aprimorar as habilidades de programaçã
 
 - [Curso de Estrutura de Dados da IBM](https://www.edx.org/learn/computer-programming/ibm-data-structures-algorithms-using-c): Este curso da IBM oferece uma excelente introdução às estruturas de dados e algoritmos usando a linguagem C++.
 
+### PDF's de Ajuda
+
+- [GUIA PARA MARATONA - INTERIF](https://gabriel-palmyro.notion.site/GUIA-PARA-MARATONA-INTERIF-d2add6a9797a4853a802691ac87bed27?pvs=4): Este guia possui alguns algoritmos e dicas que podem ajudar muito nas questões do InterIF e até de outras competições.
+
 ### Repositórios
 
 - [Repositório de Referência](https://github.com/IFCE-CP/reference): Aqui, você encontrará uma coleção de algoritmos e funções úteis para programação competitiva.
