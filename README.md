@@ -36,6 +36,6 @@ Esse repositório possui alguns exercícios realizados tanto para *treino* e *aq
       - [Questão F](InterIF/InterIF-2023/primeira-fase/f.py)
       - [Questão G](InterIF/InterIF-2023/primeira-fase/g.py)
       - [Questão H](InterIF/InterIF-2023/primeira-fase/h.py)
-      - [Prova](InterIF/InterIF-2023/provas/P1_INTERIF_2023.pdf)
+      - [Prova](InterIF/provas/P1_INTERIF_2023.pdf)
     - [Fase Final](InterIF/InterIF-2023/fase-final/)
       - [Prova](InterIF/InterIF-2023/fase-final/prova/)
