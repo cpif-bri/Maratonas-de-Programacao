@@ -1,13 +1,17 @@
 # Maratonas de Programação
-Esse repositório possui alguns exercícios realizados tanto para *treino* e *aquecimento*, quanto os códigos que foram escritos **durante** as competições de programação. Além de dicas e materiais de apoio.
+
+Esse repositório possui alguns exercícios realizados tanto para *treino* e *aquecimento*, quanto os códigos que foram escritos **durante** as competições de programação. Além de dicas e materiais de apoio
 ---
+
 ### Lista de competições
+
 - [Materiais de apoio](materiais.md)
 - [Exercícios Leet Code](LeetCode/)
   - [Easy](LeetCode/easy/)
   - [medium](LeetCode/medium/)
   - [hard](LeetCode/hard/)
 - [Maratona de Programação SBC 2022](SBC-2022/)
+- [Maratona de Programação SBC 2023](SBC-2023/)
 - [Maratona de Programação InterIF](InterIF/)
   - [2018](InterIF/InterIF-2018/)
   - [2019](InterIF/InterIF-2018/)
@@ -18,7 +22,20 @@ Esse repositório possui alguns exercícios realizados tanto para *treino* e *aq
       - [Prova](InterIF/InterIF-2022/Fase-Final/prova/)
   - [2023](InterIF/InterIF-2023/)
     - [Aquecimento](InterIF/InterIF-2023/aquecimento/)
+      - [Cookies](InterIF/InterIF-2023/aquecimento/cookies.py)
+      - [Estanografia](InterIF/InterIF-2023/aquecimento/estanografia.py)
+      - [Funções Matemáticas](InterIF/InterIF-2023/aquecimento/funcoes-matematicas.py)
+      - [Orgonograma](InterIF/InterIF-2023/aquecimento/organograma.c)
+      - [Pesadelo da OBMEP (Não Aceita)](InterIF/InterIF-2023/aquecimento/InterIF/pesadelo-da-obmep.py.c)
     - [Primeira Fase](InterIF/InterIF-2023/primeira-fase/)
-      - [Prova](InterIF/InterIF-2023/primeira-fase/prova/)
+      - [Questão A](InterIF/InterIF-2023/primeira-fase/a.py)
+      - [Questão B](InterIF/InterIF-2023/primeira-fase/b.py)
+      - [Questão C](InterIF/InterIF-2023/primeira-fase/c.py)
+      - [Questão D](InterIF/InterIF-2023/primeira-fase/d.cpp)
+      - [Questão E](InterIF/InterIF-2023/primeira-fase/e.py)
+      - [Questão F](InterIF/InterIF-2023/primeira-fase/f.py)
+      - [Questão G](InterIF/InterIF-2023/primeira-fase/g.py)
+      - [Questão H](InterIF/InterIF-2023/primeira-fase/h.py)
+      - [Prova](InterIF/InterIF-2023/provas/P1_INTERIF_2023.pdf)
     - [Fase Final](InterIF/InterIF-2023/fase-final/)
       - [Prova](InterIF/InterIF-2023/fase-final/prova/)
