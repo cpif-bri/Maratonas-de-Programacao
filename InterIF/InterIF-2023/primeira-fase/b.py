@@ -1,9 +1,8 @@
-from operator import itemgetter
-
 # Lê os valores iniciais
 nCompetidores, voltas, inv = map(int, input().split())
 
 # Inicializa a lista de competidores
+# [[ 'nome', 'sigla', [] ]]
 competidores = []
 
 # Lê os nomes dos competidores
@@ -19,6 +18,7 @@ for i in range(voltas):
     tempo = s[1]
     for i, competidor in enumerate(competidores):
         if sigla == competidor[1]:
+            # (TEMPO, VOLTA QUE ELE FEZ O TEMPO)
             competidor[2].append((tempo, i))
 
 for i in range(inv):
@@ -31,6 +31,7 @@ for i in range(inv):
             for t in range(len(competidor[2])):
                 if competidor[2][t][0] == tempo:
                     competidor[2].pop(t)
+                    removeu = True
                     break
         if removeu:
             break

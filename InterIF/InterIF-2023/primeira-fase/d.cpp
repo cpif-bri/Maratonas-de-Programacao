@@ -47,6 +47,5 @@ int main() {
         cout << fixed << setprecision(2) << (double(passa) / n) * 100 << endl;
     }
 
-
     return 0;
 }
